@@ -1,6 +1,8 @@
 # IntroGitHub
 ## Repositori base curs Introducció a GitHub
 
+![GitHub Logo](/img/github-mark.png)
+
 Exemple de repositori per practicar gestió GitHub.
 
 + Fes un fork d'aquest respositori
