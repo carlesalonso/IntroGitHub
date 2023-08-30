@@ -1,4 +1,4 @@
-# IntroGitHub
+# Intro a GitHub
 ## Repositori base curs Introducció a GitHub
 
 ![GitHub Logo](/img/github-mark.png)
