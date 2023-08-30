@@ -3,7 +3,7 @@
 
 ![GitHub Logo](/img/github-mark.png)
 
-Exemple de repositori per practicar gestió GitHub.
+Exemple de repositori per practicar la gestió GitHub.
 
 + Fes un fork d'aquest respositori
 + Clona el teu repositori en local
