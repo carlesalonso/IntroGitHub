@@ -19,4 +19,5 @@ Exemple de repositori per practicar la gestió GitHub.
 
 Afegeix aquí la línia: Professor de cicle formatiu de Sistemes Informàtics i en Xarxes.
 Afegeix aquí la línia: Carlos Alonso Martínez
+
 Data: 2025
