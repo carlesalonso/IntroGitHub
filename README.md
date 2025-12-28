@@ -19,4 +19,4 @@ Exemple de repositori per practicar la gestió GitHub.
 
 Afegeix aquí el teu nom: [El teu nom aquí]
 
-Afegeix aquí una breu presentació teva: [La teva presentació aquí]
+Afegeix aquí una breu presentació teva: Professor de FP Sistemes Informàtics i en Xarxes.
