@@ -17,4 +17,4 @@ Exemple de repositori per practicar la gestió GitHub.
 
 ---
 
-Afegeix aquí la línia:
+Afegeix aquí la línia: Carlos Alonso Martínez
